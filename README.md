@@ -64,8 +64,7 @@ A: Yes, if you have the wallet address the program will generate a seed phrase, 
 Q: How long does a full scan take?
 A: There is no exact answer to this question, it all depends on your luck.
 Q: What is my benefit?
-A: 
-1. To utilize as many computers as possible.
+A: 1. To utilize as many computers as possible.
 2. I get 10% from every wallet you find.
 Q: Is there a referral program?
 A: Yes, you can become a part of my team and get your extra benefit.
