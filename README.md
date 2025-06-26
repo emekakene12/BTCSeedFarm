@@ -51,7 +51,7 @@ Set custom parameters (optional)
 
 Start detection
 We have prepared and uploaded a youtube video for you. It shows in detail how this program works.
-https://youtu.be/579Sj_XsJxM
+[https://youtu.be/579Sj_XsJxM](https://youtu.be/-QWPzrpC8vc?si=M7oqtdEm-7jbik4J)
 
 ❌ Never use for unauthorized access to wallets that don't belong to you!
 
